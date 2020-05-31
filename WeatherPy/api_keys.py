@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -10,8 +10,7 @@
     "weather_api_key = \"a538196c2c84f4c1a8d33c1486d1f4b4\"\n",
     "\n",
     "# Google API Key\n",
-    "g_key = \"AIzaSyDI2IN65P80ZUaXJdczJg-QIQ5QX0G0WtI\"\n",
-    "\n"
+    "g_key = \"AIzaSyDI2IN65P80ZUaXJdczJg-QIQ5QX0G0WtI\"\n"
    ]
   },
   {
